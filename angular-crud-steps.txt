@@ -1,5 +1,5 @@
 Step 1 
-nmp install @angular/cli -g
+npm install @angular/cli -g
 
 Step 2 create new project
 

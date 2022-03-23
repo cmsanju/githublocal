@@ -61,6 +61,8 @@ step 8 create and update db.json file inside the server folder
   ]
 }
 
+npm i json-server ts-node --save-dev mandatory json server
+
 step 9 start json server
 json-server --watch db.json
 
